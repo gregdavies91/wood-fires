@@ -1,0 +1,7 @@
+{
+  "name": "Wood Fires",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
