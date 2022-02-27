@@ -3,7 +3,7 @@
   <ion-menu type="overlay" side="start" menu-id="first" content-id="main">
 
     <span>
-        <ion-button fill="clear" slot='start' style="--background-hover-opacity: 0%">
+        <ion-button fill="clear" slot='start'>
           <ion-menu-button color="medium" style="--background-hover-opacity: 0%"></ion-menu-button>
         </ion-button>
     </span>
