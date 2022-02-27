@@ -6,7 +6,7 @@
 
 <!--   This button has to be on all views, can it be in a component? -->
         <ion-button fill="clear" slot='start' style="--background-hover-opacity: 0%">
-          <ion-menu-button color="medium"></ion-menu-button>
+          <ion-menu-button color="medium" style="--background-hover-opacity: 0%"></ion-menu-button>
         </ion-button>
         <div align="right">
           <ion-button fill="clear" color="medium" target="_blank" rel="noopener noreferrer" href="https://github.com/gregdavies91">
